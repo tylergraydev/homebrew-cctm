@@ -1,7 +1,7 @@
 cask "claude-code-tool-manager" do
   arch arm: "aarch64", intel: "x64"
 
-  version "2.5.0"
+  version "2.6.0"
   sha256 arm:   "0019dfc4b32d63c1392aa264aed2253c1e0c2fb09216f8e2cc269bbfb8bb49b5",
          intel: "0019dfc4b32d63c1392aa264aed2253c1e0c2fb09216f8e2cc269bbfb8bb49b5"
 
