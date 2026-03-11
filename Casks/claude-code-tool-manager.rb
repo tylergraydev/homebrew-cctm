@@ -1,9 +1,9 @@
 cask "claude-code-tool-manager" do
   arch arm: "aarch64", intel: "x64"
 
-  version "3.3.1"
-  sha256 arm:   "295f158cb22e1213d91f9eb6887cdfab44e3753b781ce44c2d3937173f10f71e",
-         intel: "99407ab92893ac19fc57f08ef4452281d753e9dd826e5d9ae1b32f1a87e3245e"
+  version "3.4.0"
+  sha256 arm:   "0019dfc4b32d63c1392aa264aed2253c1e0c2fb09216f8e2cc269bbfb8bb49b5",
+         intel: "0019dfc4b32d63c1392aa264aed2253c1e0c2fb09216f8e2cc269bbfb8bb49b5"
 
   url "https://github.com/tylergraydev/claude-code-tool-manager/releases/download/v#{version}/Claude.Code.Tool.Manager_#{version}_#{arch}.dmg"
   name "Claude Code Tool Manager"
